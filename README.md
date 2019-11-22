@@ -9,8 +9,6 @@
 * [在线阅读](SUMMARY.md)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
-## 目录
-
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
