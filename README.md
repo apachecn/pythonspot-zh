@@ -6,7 +6,7 @@
 > 
 > 计算机科学领域的任何问题都可以通过增加一个间接的中间层来解决。——David Wheeler
 
-* [在线阅读](http://pythonspot.apachecn.org/)
+* [在线阅读](http://pysp.apachecn.org/)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/pythonspot-zh/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
